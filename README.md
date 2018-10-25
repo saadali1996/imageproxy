@@ -18,6 +18,7 @@ Personally, I use it primarily to dynamically resize images hosted on my own
 site (read more in [this post][]).  But you can also enable request signing and
 use it as an SSL proxy for remote images, similar to [atmos/camo][] but with
 additional image adjustment options.
+### Add seperate cache suport as a backup instead of redis, real time stress test and response a web page if it is used in a production environemnt
 
 [this post]: https://willnorris.com/2014/01/a-self-hosted-alternative-to-jetpacks-photon-service
 [atmos/camo]: https://github.com/atmos/camo
